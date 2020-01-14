@@ -1,5 +1,5 @@
-## 高仿简书文章详情界面
-#### 核心代码如下
+## 高仿各种App效果集合
+###### 1.简书文章详情页面
 ```
 - (void)scrollViewWillBeginDragging:(UIScrollView *)scrollView{
     self.offsetY = scrollView.contentOffset.y;
@@ -37,3 +37,6 @@
 }
 
 ```
+`强烈推荐`
+[我的简书主页](https://www.jianshu.com/u/32d3d14dd38d)
+[我的博客主页](https://blog.csdn.net/muziyuting)
