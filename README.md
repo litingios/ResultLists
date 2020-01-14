@@ -38,7 +38,7 @@
 
 ```
 效果图如下
-![文章详情效果图.png](https://upload-images.jianshu.io/upload_images/20213494-ff17ddeaf18c6b42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/560)
+![文章详情效果图.png](https://upload-images.jianshu.io/upload_images/20213494-ff17ddeaf18c6b42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
 
 
 `强烈推荐`
