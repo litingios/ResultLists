@@ -37,6 +37,10 @@
 }
 
 ```
+效果图如下
+![文章详情效果图.png](https://upload-images.jianshu.io/upload_images/20213494-ff17ddeaf18c6b42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 `强烈推荐`
 [我的简书主页](https://www.jianshu.com/u/32d3d14dd38d)
 [我的博客主页](https://blog.csdn.net/muziyuting)
